@@ -1,0 +1,75 @@
+/*\\\\\\\\\\\MAIN STYLE VARIABLE\\\\\\\\\\\\\\\\\*/
+
+$body-bg:#dddddd;
+$font-black : #000000;
+$font-light_black:#333333;
+$font-gray:#999999;
+$font-family: "Roboto", Regular;
+$background-size: cover;
+$background-position: center;
+$text-rendering: optimizeLegibility;
+$-webkit-font-smoothing: antialiased;
+$font-size-base: 16px;
+$headings-font-family: "Roboto", Regular;
+$headings-font-weight: 300;
+$headings-line-height:30px ;
+$headings-color: inherit !default;
+
+/*\\\\\\\\\\\COLOR STYLE\\\\\\\\\\\\\\\\\*/
+
+
+/*\\\\\\\\\\\INPUT STYLE\\\\\\\\\\\\\\\\\*/
+
+ $input-background: #ffffff none repeat scroll 0 0;
+ $input-border: 1px solid #bdbdbd !important;
+ $input-border-radius: 2px;
+ $input-box-shadow: 0 0 1px #9d9d9d inset;
+ $input-color: #000000;
+ $input-font-family: "Roboto",Regular;
+ $input-font-weight: 400;
+ $input-height: 40px;
+ $input-margin: 5px 0 20px !important;
+ $input-padding:4px 12px;
+ $input-error: #dd4b39;
+ $input-error-border: #dd4b39;
+ $font-size:14px;
+ 
+ $focus-border: rgb(62, 173, 230) rgb(62, 173, 230) rgb(62, 173, 230) !important;
+ $focus-box-shadow: 0 0 10px rgba(62,173,230,.5);
+    
+ 
+
+/*\\\\\\\\\\\INPUT PLACEHOLDER\\\\\\\\\\\\\\\\\*/
+
+
+$input-placeholder-color:#999999;
+$legend-color:#000000;
+$legend-border-color: 2px solid #ffffff !important;
+
+/*\\\\\\\\\\\Main Button\\\\\\\\\\\\\\\\\*/
+$button-background:#03408e;
+$button-box-shadow: 0 4px #003271;
+$-webkit-border-radius: 4;
+$-moz-border-radius: 4;
+$border-radius: 4px;
+$button-color:#fff;
+$button-font-size: 16px;
+$button-padding: 7px 20px;
+$button-text-align: center;
+$button-margin-bottom: 10px;
+$button-border:none;
+
+
+
+/*\\\\\\\\\\\Main Header\\\\\\\\\\\\\\\\\*/
+
+$header-bg:rgba(0, 0, 0, 0) url("../img/hdbg.png") repeat scroll 0 0;
+$main-footer:#003f91 none repeat scroll 0 0;
+$admin-header:rgba(0, 0, 0, 0) url("../img/hdbg.png") repeat scroll 0 0;
+$admin-footer: #003f91 none repeat scroll 0 0;
+/*$admin-header:rgba(0, 0, 0, 0) url("../img/admin-topbg1.png") repeat scroll 0 0;*/
+/*$admin-footer: rgba(0, 0, 0, 0) url("../img/footer.png") repeat scroll 0 0;*/
+
+/*\\\\\\\\\\\All Button\\\\\\\\\\\\\\\\\*/
+ 
+
